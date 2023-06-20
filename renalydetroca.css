@@ -1,28 +1,99 @@
-body {
-    height: 300vh;
-    
+.logo {
+position: absolute;
+width: 157px;
+height: 169px;
+left: 655px;
+top: 36px;
+
+background: url(logo\ removido.png);
 }
-
-
-.container {
-   /* Rectangle 1 */
-width: 1500px;
-height: 60px;
-left: 40px;
-top: 200px;
-
+.triangulorosa {
+    position: absolute;
+width: 1330px;
+height: 47px;
+left: 55px;
+top: 260px;
 
 background: #FF9191;
-
-
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
 }
+.carrinho {
+    position: absolute;
+width: 121px;
+height: 36px;
+left: 911px;
+top: 269px;
 
-.barrapreta1 {
-    /* Line 5 */
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
 
+color: #000000;
+}
+.roupas {
+    position: absolute;
+width: 162px;
+height: 37px;
+left: 363px;
+top: 268px;
 
-position: absolute;
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+}
+.inicio {
+    position: absolute;
+width: 183px;
+height: 35px;
+left: 170px;
+top: 268px;
+
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+}
+.triagulado {
+    position: absolute;
+width: 303px;
+height: 97px;
+left: 569px;
+top: 237px;
+
+background: #D9D9D9;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.4);
+
+}
+.letralogo {
+    position: absolute;
+width: 729px;
+height: 156.77px;
+left: 368px;
+top: 578px;
+
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 62.7097px;
+line-height: 74px;
+text-align: center;
+
+color: #000000;
+
+}
+.linhareta1 {
+    position: absolute;
 width: 1293px;
 height: 0px;
 left: 73px;
@@ -31,23 +102,192 @@ top: 576px;
 border: 1px solid #000000;
 transform: rotate(0.09deg);
 }
+.renaly1 {
+    position: absolute;
+width: 164px;
+height: 30px;
+left: 273px;
+top: 1119px;
 
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
 
-.logo {
-    /* image 9 */
-width: 140px;
-height: 170px;
-left: 655px;
-top: 300px;
-background: url(logo\ removido.png);
+color: #000000;
 
 }
+.renaly2 {
+    position: absolute;
+width: 212px;
+height: 28px;
+left: 614px;
+top: 1119px;
 
-.opo {
-    /* Line 6 */
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
 
+color: #000000;
 
-position: absolute;
+}
+.renaly3 {
+    position: absolute;
+width: 181px;
+height: 30px;
+left: 1020px;
+top: 1115px;
+
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+}
+.login {
+    position: absolute;
+width: 167px;
+height: 36px;
+left: 1086px;
+top: 269px;
+
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+}
+.renalypri {
+    position: absolute;
+width: 161px;
+height: 48px;
+left: 640px;
+top: 251px;
+
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 57px;
+text-align: center;
+
+color: #000000;
+
+}
+.primeiropro {
+    position: absolute;
+width: 227px;
+height: 343.94px;
+left: 242px;
+top: 771px;
+
+background: url(camisa-1.jpg);
+}
+.segundopro {
+    position:absolute;
+width: 290px;
+height: 348px;
+left: 588px;
+top: 771px;
+
+background: url(camisa\ 2.webp);
+}
+.terceiropro {
+    position: absolute;
+width: 285px;
+height: 353px;
+left: 968px;
+top: 762px;
+
+background: url(terceiro\ \(1\).png);
+}
+.caradebaixo {
+    position: absolute;
+width: 732px;
+height: 668px;
+left: 708px;
+top: 1239px;
+
+background: url(manav-sharma-pTD-pLvHHko-unsplash.jpg);
+}
+.tecido {
+    position: absolute;
+width: 710px;
+height: 668px;
+left: 0px;
+top: 1239px;
+
+background: url(tecido.png);
+filter: blur(5px);
+}
+.krl {
+    position: absolute;
+width: 179px;
+height: 75px;
+left: 619px;
+top: 1703px;
+background: #000000;
+border-radius: 40px;
+}
+.ver {
+    
+}
+.blackst {
+    position: absolute;
+width: 249px;
+height: 69px;
+left: 245px;
+top: 1409px;
+
+font-family: 'Italiana';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 75px;
+text-transform: uppercase;
+
+color: #000000;
+
+}
+.ceu {
+    position: absolute  ;
+width: 550px;
+height: 80px;
+left: 94px;
+top: 1521px;
+
+font-family: 'JejuGothic';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 39px;
+text-align: center;
+
+color: #000000;
+}
+.icone1 {
+    position: absolute;
+width: 161px;
+height: 140px;
+left: 289px;
+top: 1605px;
+background: url(iconeeeeee.png);
+}
+.slaman {
+    position: absolute;
 width: 1293px;
 height: 0px;
 left: 75px;
@@ -56,19 +296,4 @@ top: 1200.5px;
 border: 1px solid #000000;
 transform: rotate(0.09deg);
 }
-
-.newgenmasculine {
-/* image 2 */
-
-
-
-width: 227px;
-height: 343.94px;
-left: 123px;
-top: 775.21px;
-
-
-background: url(camisa-1.jpg);
-}
-
 
